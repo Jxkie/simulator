@@ -1,1 +1,2 @@
-# simulator
+# Game Project
+# UMCS
